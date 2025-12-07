@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Prerequisite_Certification__c</fullName>
+    <description>Captures the Certification that is a prerequisite for the attached prerequisite.</description>
+    <label>Prerequisite Certification</label>
+    <referenceTo>SF_Certification__c</referenceTo>
+    <relationshipLabel>Prerequisite</relationshipLabel>
+    <relationshipName>Certification_Prerequisite</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

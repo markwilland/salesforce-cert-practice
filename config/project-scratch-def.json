@@ -1,7 +1,7 @@
 {
   "orgName": "Exam Tracker Scratch",
   "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
+  "features": ["EnableSetPasswordInApi", "AuthorApex", "RecordTypes"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
