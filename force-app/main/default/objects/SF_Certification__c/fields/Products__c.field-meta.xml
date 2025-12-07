@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Products__c</fullName>
+    <label>Products</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Agentforce</fullName>
+                <default>false</default>
+                <label>Agentforce</label>
+            </value>
+            <value>
+                <fullName>Commerce Cloud</fullName>
+                <default>false</default>
+                <label>Commerce Cloud</label>
+            </value>
+            <value>
+                <fullName>CRM Analytics</fullName>
+                <default>false</default>
+                <label>CRM Analytics</label>
+            </value>
+            <value>
+                <fullName>Data Cloud</fullName>
+                <default>false</default>
+                <label>Data Cloud</label>
+            </value>
+            <value>
+                <fullName>Experience Cloud</fullName>
+                <default>false</default>
+                <label>Experience Cloud</label>
+            </value>
+            <value>
+                <fullName>Industry Solutions</fullName>
+                <default>false</default>
+                <label>Industry Solutions</label>
+            </value>
+            <value>
+                <fullName>Marketing Cloud</fullName>
+                <default>false</default>
+                <label>Marketing Cloud</label>
+            </value>
+            <value>
+                <fullName>MuleSoft</fullName>
+                <default>false</default>
+                <label>MuleSoft</label>
+            </value>
+            <value>
+                <fullName>Net Zero Cloud</fullName>
+                <default>false</default>
+                <label>Net Zero Cloud</label>
+            </value>
+            <value>
+                <fullName>Revenue Cloud</fullName>
+                <default>false</default>
+                <label>Revenue Cloud</label>
+            </value>
+            <value>
+                <fullName>Sales Cloud</fullName>
+                <default>false</default>
+                <label>Sales Cloud</label>
+            </value>
+            <value>
+                <fullName>Salesforce Platform</fullName>
+                <default>false</default>
+                <label>Salesforce Platform</label>
+            </value>
+            <value>
+                <fullName>Service Cloud</fullName>
+                <default>false</default>
+                <label>Service Cloud</label>
+            </value>
+            <value>
+                <fullName>Slack</fullName>
+                <default>false</default>
+                <label>Slack</label>
+            </value>
+            <value>
+                <fullName>Tableau</fullName>
+                <default>false</default>
+                <label>Tableau</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

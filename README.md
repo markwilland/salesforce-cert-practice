@@ -1,6 +1,6 @@
 # Salesforce Certification Study Tracker
 
-A Salesforce application for managing certification study materials and tracking exam preparation progress.
+A Salesforce application for managing certification study materials and tracking exam preparation progress. Includes community compiled and defined data sets regarding Salesforce certification/trailhead materials.
 
 ## Data Model
 
@@ -26,3 +26,5 @@ A Salesforce application for managing certification study materials and tracking
 - ⬜ Quiz attempt tracking
 - ⬜ Performance analytics
 
+## Disclaimer
+This repo/author makes no claims about the accuracy of data surrounding Salesfor.ce Certification's and prerequites. For complete up to date information, refer to official documentation on https://trailheadacademy.salesforce.com/

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Certification_Code__c</fullName>
+    <description>Captures code associated with a given certification. Example: Salesforce Certified Platform Administrator certification&apos;s corresponding code is: Plat-Admn-201</description>
+    <externalId>false</externalId>
+    <label>Certification Code</label>
+    <length>32</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

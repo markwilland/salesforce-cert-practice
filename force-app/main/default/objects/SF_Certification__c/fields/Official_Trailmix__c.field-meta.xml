@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Official_Trailmix__c</fullName>
+    <description>Link to the applicable trailmix where &quot;Salesforce Trailhead&quot; is the author</description>
+    <label>Official Trailmix URL</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Url</type>
+</CustomField>
