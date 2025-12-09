@@ -4,6 +4,7 @@
 
 # Exclude profiles, packaging will be done in permission sets
 **/profiles/**
+**sfdcInternalInt__sfdc_scrt2**
 
 package.xml
 
@@ -13,3 +14,4 @@ package.xml
 
 # LWC Jest
 **/__tests__/**
+

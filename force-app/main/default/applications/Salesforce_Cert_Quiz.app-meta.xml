@@ -14,6 +14,10 @@ Generate quizzes based on topics, track your progress and success against variou
     <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
     <label>Salesforce Cert Quiz</label>
     <navType>Standard</navType>
+    <tabs>SF_Certification__c</tabs>
+    <tabs>Certification_Topic__c</tabs>
+    <tabs>Exam_Prerequisite__c</tabs>
+    <tabs>Exam_Question__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Salesforce_Cert_Quiz_UtilityBar</utilityBar>
 </CustomApplication>
