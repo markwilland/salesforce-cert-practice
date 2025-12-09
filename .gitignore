@@ -9,6 +9,9 @@
 deploy-options.json
 .vscode/
 
+# Ignore Data Files
+data/*
+
 # LWC VSCode autocomplete
 **/lwc/jsconfig.json
 
